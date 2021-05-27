@@ -1,0 +1,19 @@
+{
+  "items": [],
+  "secondUseCaseDataStore": [
+    {
+      "id": "0",
+      "data": "hello"
+    },
+    {
+      "id": "1",
+      "data": "world"
+    }
+  ],
+  "secondUseCaseSeparateDataStoreStaging": [
+    
+  ],
+  "secondUseCaseSeparateDataStoreProper": [
+    
+  ]
+}
